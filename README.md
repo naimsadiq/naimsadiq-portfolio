@@ -99,7 +99,7 @@ Have a project in mind or just want to say hi? My inbox is always open!
 - **Location:** Rajshahi, Bangladesh
 
 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/naimsaidq) | [GitHub](https://github.com/naimsadiq) | [Portfolio](https://naimsadiq.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/naimsadiq/) | [GitHub](https://github.com/naimsadiq) | [Portfolio](https://naimsadiq.vercel.app/)
 
 ---
 

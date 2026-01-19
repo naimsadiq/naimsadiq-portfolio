@@ -105,7 +105,7 @@ const Contact = () => {
                   },
                   {
                     icon: <FaLinkedin />,
-                    link: "https://linkedin.com/in/naimsadiq",
+                    link: "https://www.linkedin.com/in/naimsadiq/",
                     color: "hover:bg-blue-700",
                   },
                   {

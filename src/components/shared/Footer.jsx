@@ -76,7 +76,7 @@ const Footer = () => {
               },
               {
                 icon: <FaLinkedin size={20} />,
-                link: "https://linkedin.com/in/naimsadiq",
+                link: "https://www.linkedin.com/in/naimsadiq/",
               },
               {
                 icon: <FaFacebook size={20} />,
