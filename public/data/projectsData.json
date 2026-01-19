@@ -1,0 +1,149 @@
+[
+  {
+    "id": "tuition-management-system",
+    "title": "Tuition Management System",
+    "image": "https://i.ibb.co/J0DPxpy/tutor-bazar-image.webp",
+    "category": "Full Stack Web Application",
+    "live": "https://tutor-bazar-d24e4.web.app/",
+    "github": "https://github.com/naimsadiq/tutor-bazar-client.git",
+    "shortDescription": "A full-featured platform for students, tutors, and admins to manage tuition activities efficiently.",
+    "fullDescription": "The Tuition Management System is a complete digital platform designed to solve real-world problems of finding qualified tutors and verified tuition posts. It supports student, tutor, and admin roles with secure authentication, tuition posting, tutor applications, payment tracking, and financial reporting.",
+    "purpose": "To provide a smooth, secure, and reliable digital workflow for tuition management while ensuring verified tutors and trusted tuition posts.",
+    "features": {
+      "authentication": [
+        "Register as Student or Tutor",
+        "Email & Password login",
+        "Google login",
+        "JWT-based role verification",
+        "Protected routes"
+      ],
+      "studentDashboard": [
+        "Create, update, and delete tuition posts",
+        "View applied tutors",
+        "Approve or reject tutor applications",
+        "Stripe payment integration",
+        "Payment history tracking",
+        "Profile management"
+      ],
+      "tutorDashboard": [
+        "Apply for tuition posts",
+        "Track application status",
+        "View ongoing tuitions",
+        "Revenue and transaction history",
+        "Profile management"
+      ],
+      "adminDashboard": [
+        "User management (view, update, delete, change roles)",
+        "Tuition post approval and moderation",
+        "Reports and analytics",
+        "Charts and data visualization"
+      ],
+      "additionalFeatures": [
+        "Responsive design for all devices",
+        "Sticky navbar and footer",
+        "Social media integration",
+        "Full-screen loading spinner",
+        "Custom 404 error page"
+      ],
+      "advancedFeatures": [
+        "Search and sort tuition posts",
+        "Pagination system",
+        "Advanced filtering (class, subject, location)",
+        "JWT token-based access control"
+      ]
+    },
+    "techStack": {
+      "client": [
+        "React",
+        "React Router",
+        "Tailwind CSS",
+        "DaisyUI",
+        "Axios",
+        "Framer Motion",
+        "Firebase",
+        "React Icons",
+        "Stripe React SDK"
+      ],
+      "server": [
+        "Node.js",
+        "Express.js",
+        "MongoDB (Mongoose)",
+        "JSON Web Token (JWT)",
+        "Stripe API",
+        "dotenv"
+      ]
+    },
+    "sortTechStack": [
+      "React.js",
+      "Tailwind CSS",
+      "Express.js",
+      "MongoDB",
+      "Stripe API"
+    ]
+  },
+  {
+    "id": "film-review",
+    "title": "Film Review",
+    "image": "https://i.ibb.co/gbK6RXFZ/film-review-image.webp",
+    "category": "Movie Review Platform",
+    "live": "https://moviemaster-pro-31bb4.web.app/",
+    "github": "https://github.com/naimsadiq/moviemaster-pro-client.git",
+    "shortDescription": "An interactive movie platform where users can explore, rate, and review movies.",
+    "fullDescription": "Film Review is a community-driven web application for movie lovers to discover new and popular movies, share opinions, rate films, and manage personal watchlists. The platform provides real-time movie data with a clean and responsive user interface.",
+    "purpose": "To create an engaging space for movie enthusiasts where they can explore movies, share reviews, and maintain a personalized watchlist.",
+    "features": [
+      "Dynamic movie listing using real-time API data",
+      "Search and filter movies by name or genre",
+      "User authentication with protected routes",
+      "Movie review and rating system",
+      "Personal watchlist feature",
+      "Responsive design for mobile and desktop"
+    ],
+    "additionalFeatures": [
+      "Display movie details like release year, genre, and rating",
+      "Admin/creator control to add, edit, and delete movies",
+      "Fast and lightweight UI",
+      "Toast notification support"
+    ],
+    "techStack": {
+      "frontend": ["React.js", "React Router DOM", "Tailwind CSS"],
+      "backend": ["Node.js", "Express.js", "MongoDB"],
+      "auth": ["Firebase Authentication"],
+      "hosting": ["Firebase", "Vercel"]
+    },
+    "sortTechStack": ["React.js", "Tailwind CSS", "Express.js", "MongoDB"]
+  },
+
+  {
+    "id": "knowlix",
+    "title": "Knowlix – Professional Skill Marketplace",
+    "image": "https://i.ibb.co/VR7D8ZD/knowilx-image.webp",
+    "category": "Skill Marketplace",
+    "live": "https://knowlix.pages.dev/",
+    "github": "https://github.com/naimsadiq/Knowlix.git",
+    "shortDescription": "A professional skill marketplace for creative digital courses like photo editing, video production, and 3D design.",
+    "fullDescription": "Knowlix is a modern web application that connects users with high-quality digital skill development courses. Users can browse courses by category, compare ratings and prices, and track available slots in real time.",
+    "purpose": "To create a transparent and interactive connection between learners and professional course providers.",
+    "features": [
+      "Dynamic course browsing by category",
+      "Real-time available slot tracking",
+      "Detailed course cards with price, rating, and provider info",
+      "Upcoming courses section",
+      "Tool-based course categorization"
+    ],
+    "courseSummary": {
+      "totalCourses": 9,
+      "totalProviders": 9,
+      "highestRatedCourse": 4.9,
+      "lowestPrice": "$300",
+      "primaryFocus": "Photo Editing & Video Editing"
+    },
+    "techStack": {
+      "frontend": ["React.js", "React Router", "Tailwind CSS"],
+      "visualization": ["Recharts"],
+      "stateManagement": ["LocalStorage"],
+      "notifications": ["Toastify"]
+    },
+    "sortTechStack": ["React.js", "Tailwind CSS"]
+  }
+]
