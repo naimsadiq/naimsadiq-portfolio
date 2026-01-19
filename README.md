@@ -1,36 +1,102 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Naim Sadiq – Junior MERN Stack Developer
 
-## Getting Started
+Hi! I'm **Naim Sadiq**, a passionate **Junior MERN Stack Developer** based in Rajshahi, Bangladesh. I build **real-world web applications** using **MongoDB, Express, React, and Next.js**.  
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🏠 Navigation
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Home](#)
+- [About](#about)
+- [Projects](#projects)
+- [Skills](#skills)
+- [Contact](#contact)
+- [Hire Me](#)
+- Available for Internship
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 👋 About Me
 
-## Learn More
+I don't just write code; I focus on **User Experience** and **Clean Architecture**. With experience in **Node.js** and **MongoDB**, I can handle both **frontend** and **backend** development. I also love exploring **AI tools** to speed up development without compromising quality.  
 
-To learn more about Next.js, take a look at the following resources:
+**Target:** Seeking an internship to contribute to real-world projects and grow alongside industry leaders.  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 💻 My Tech Stack
 
-## Deploy on Vercel
+### Frontend
+- HTML5, CSS3, Tailwind CSS
+- JavaScript (ES6+)
+- React.js, Next.js
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Backend
+- Node.js, Express.js
+- MongoDB, Firebase
+- REST API, JWT
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Full-Stack Capabilities
+- Role-based Dashboards
+- Stripe Payment Integration
+- API Integration & Auth
+
+### Tools & Platforms
+- Git, GitHub
+- Figma, Photoshop
+- Vercel, VS Code
+
+---
+
+## 📂 Featured Projects
+
+### 1. Tuition Management System
+A full-featured platform for students, tutors, and admins to manage tuition activities efficiently.  
+**Tech Stack:** React.js, Tailwind CSS, Express.js, MongoDB, Stripe API  
+[View Details →]("https://tutor-bazar-d24e4.web.app/")
+
+### 2. Film Review
+An interactive movie platform where users can explore, rate, and review movies.  
+**Tech Stack:** React.js, Tailwind CSS, Express.js, MongoDB  
+[View Details →]("https://moviemaster-pro-31bb4.web.app/")
+
+### 3. Knowlix – Professional Skill Marketplace
+A professional skill marketplace for creative digital courses like photo editing, video production, and 3D design.  
+**Tech Stack:** React.js, Tailwind CSS  
+[View Details →]("https://knowlix.pages.dev/")
+
+---
+
+## 🛠 Skills & Expertise
+
+### Frontend Development
+Building responsive, accessible, and modern user interfaces
+
+### Backend Development
+Developing secure and scalable server-side applications
+
+### Full-Stack Capabilities
+Handling complete application workflows from UI to database
+
+---
+
+## 📫 Contact Me
+
+Have a project in mind or just want to say hi? My inbox is always open!  
+
+- **Phone:** +880 1326 098250  
+- **Email:** [nayemsadiq2013@gmail.com](mailto:nayemsadiq2013@gmail.com)  
+- **Location:** Rajshahi, Bangladesh  
+
+**Connect with me:**  
+[LinkedIn]("https://www.linkedin.com/in/naimsaidq") | [GitHub]("https://github.com/naimsadiq") | [Portfolio]("https://naimsadiq.vercel.app/")
+
+---
+
+## ❤️ About this Portfolio
+
+Building modern web experiences with the **MERN stack** and a passion for **clean code**.  
+
+**Designed & Built with ❤️ using Next.js & Tailwind CSS**  
+
+© 2026 **Naim Sadiq. All rights reserved.**

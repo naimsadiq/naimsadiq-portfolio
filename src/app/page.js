@@ -7,18 +7,10 @@ import ContactSection from "@/components/contact/ContactSection";
 export default function Home() {
   return (
     <div className="min-h-[calc(100vh-290px)]">
-      <section>
-        <AboutPage></AboutPage>
-      </section>
-      <section>
-        <ProjectsSection></ProjectsSection>
-      </section>
-      <section>
-        <SkillsSection></SkillsSection>
-      </section>
-      <section>
-        <ContactSection></ContactSection>
-      </section>
+      <AboutPage></AboutPage>
+      <ProjectsSection></ProjectsSection>
+      <SkillsSection></SkillsSection>
+      <ContactSection></ContactSection>
     </div>
   );
 }
