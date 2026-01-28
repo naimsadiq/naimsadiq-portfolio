@@ -115,35 +115,61 @@
   },
 
   {
-    "id": "knowlix",
-    "title": "Knowlix – Professional Skill Marketplace",
-    "image": "https://i.ibb.co/VR7D8ZD/knowilx-image.webp",
-    "category": "Skill Marketplace",
-    "live": "https://knowlix.pages.dev/",
-    "github": "https://github.com/naimsadiq/Knowlix.git",
-    "shortDescription": "A professional skill marketplace for creative digital courses like photo editing, video production, and 3D design.",
-    "fullDescription": "Knowlix is a modern web application that connects users with high-quality digital skill development courses. Users can browse courses by category, compare ratings and prices, and track available slots in real time.",
-    "purpose": "To create a transparent and interactive connection between learners and professional course providers.",
-    "features": [
-      "Dynamic course browsing by category",
-      "Real-time available slot tracking",
-      "Detailed course cards with price, rating, and provider info",
-      "Upcoming courses section",
-      "Tool-based course categorization"
-    ],
-    "courseSummary": {
-      "totalCourses": 9,
-      "totalProviders": 9,
-      "highestRatedCourse": 4.9,
-      "lowestPrice": "$300",
-      "primaryFocus": "Photo Editing & Video Editing"
+    "id": "parents-care",
+    "title": "Parents Care – Professional Caregiving Platform",
+    "image": "https://i.ibb.co/2YcbDxDL/parentscare.avif",
+    "category": "Full Stack Caregiving Platform",
+    "live": "https://parentscare-xi.vercel.app/",
+    "github": "https://github.com/naimsadiq/parentscare.git",
+    "shortDescription": "A modern platform to find, book, and pay for verified caregivers for children, elderly, and nursing needs.",
+    "fullDescription": "Parents Care is a comprehensive full-stack application designed to bridge the gap between families and professional caregivers. It offers a secure ecosystem where users can book services based on duration and location, while admins can oversee operations and financial transactions through a dedicated dashboard.",
+    "purpose": "To provide a reliable and trusted digital platform for families to access specialized home care services with ease and transparency.",
+    "features": {
+      "userCapabilities": [
+        "Dynamic service exploration (Baby Sitting, Elderly Care, Nursing)",
+        "Secure registration with NID and contact verification",
+        "Interactive booking form with real-time cost calculation",
+        "Dynamic location filtering (Division > District > Area)",
+        "Stripe payment integration with automated 'Paid' status",
+        "Personal dashboard to track booking status (Pending/Confirmed)",
+        "Automated PDF/Email invoices via Nodemailer after payment"
+      ],
+      "adminDashboard": [
+        "Private Role-protected Admin Control Center",
+        "Comprehensive booking management and status updates",
+        "Financial overview with Stripe transaction tracking",
+        "User request supervision and management"
+      ],
+      "advancedFeatures": [
+        "Next.js 15 Server Actions for lag-free data handling",
+        "NextAuth.js (JWT Strategy) for secure authentication",
+        "Dark and Light mode toggle for better UX",
+        "Dynamic Metadata for SEO optimization",
+        "Cascading dropdowns for complex location selection"
+      ]
     },
     "techStack": {
-      "frontend": ["React.js", "React Router", "Tailwind CSS"],
-      "visualization": ["Recharts"],
-      "stateManagement": ["LocalStorage"],
-      "notifications": ["Toastify"]
+      "frontend": [
+        "Next.js 15 (App Router)",
+        "React 19",
+        "Tailwind CSS",
+        "DaisyUI",
+        "Skeleton Loaders"
+      ],
+      "backend": [
+        "Next.js Server Actions",
+        "MongoDB (Native Driver)",
+        "NextAuth.js",
+        "Stripe SDK",
+        "Nodemailer"
+      ]
     },
-    "sortTechStack": ["React.js", "Tailwind CSS"]
+    "sortTechStack": [
+      "Next.js 15",
+      "Tailwind CSS",
+      "MongoDB",
+      "NextAuth.js",
+      "Stripe API"
+    ]
   }
 ]
