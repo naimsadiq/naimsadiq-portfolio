@@ -21,7 +21,7 @@ const ProjectCard = ({ project }) => {
       {/* Image Container - Fixed Aspect Ratio */}
       <div className="relative aspect-video w-full overflow-hidden">
         <Image
-          src={image || "/placeholder.png"}
+          src={image || "/images/amar-khata-dashboard.jpg"}
           alt={title}
           fill
           className="object-cover transition-transform duration-500 group-hover:scale-105"

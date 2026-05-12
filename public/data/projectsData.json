@@ -1,5 +1,67 @@
 [
   {
+    "id": "amar-khata",
+    "title": "Amar Khata – SME Ledger & POS Management System",
+    "image": "https://i.ibb.co/GfgBNJvz/amar-khata-dashboard.jpg",
+    "category": "Full Stack Business Management Platform",
+    "live": "https://amar-khata-xi.vercel.app/",
+    "github": "https://github.com/naimsadiq/amar-khata.git",
+    "shortDescription": "A complete digital ledger, inventory, and POS management platform for small and medium businesses.",
+    "fullDescription": "Amar Khata is a comprehensive business management platform designed for SMEs to manage customers, suppliers, inventory, transactions, billing, banking, and staff operations from a single dashboard. The platform includes a powerful POS system with invoice generation, multi-business support, advanced reporting, and role-based admin management.",
+    "purpose": "To simplify daily business accounting, inventory tracking, sales management, and financial reporting for small and medium business owners through a modern digital platform.",
+    "features": {
+      "userCapabilities": [
+        "Multi-business management with dynamic business switching",
+        "Customer & supplier ledger tracking system",
+        "Cashbook and transaction management with image upload",
+        "POS billing system with printable invoices",
+        "Inventory and stock management with low-stock alerts",
+        "Barcode-based product search and billing",
+        "Dynamic dashboard with balance and sales summaries",
+        "Bank account and financial transaction management",
+        "Staff attendance and salary management",
+        "PDF and Excel export for reports and statements"
+      ],
+      "adminDashboard": [
+        "Private role-protected admin panel",
+        "User activity and transaction monitoring",
+        "Business and system management controls",
+        "Language and supported bank management",
+        "System-wide analytics and reports"
+      ],
+      "advancedFeatures": [
+        "JWT-based secure authentication and protected routes",
+        "Inventory auto-deduction after successful sales",
+        "TanStack Query for optimized API caching",
+        "Zustand global state management",
+        "Debounced search for inventory and customers",
+        "Dark and Light mode support",
+        "Responsive dashboard UI for desktop and tablet",
+        "Invoice generation with PDF download and printing"
+      ]
+    },
+    "techStack": {
+      "frontend": [
+        "Next.js / React",
+        "Tailwind CSS",
+        "shadcn/ui",
+        "Zustand",
+        "TanStack Query",
+        "React Hook Form",
+        "Recharts"
+      ],
+      "backend": [
+        "Express.js",
+        "MongoDB",
+        "JWT Authentication",
+        "Firebase Auth",
+        "Multer",
+        "Node.js"
+      ]
+    },
+    "sortTechStack": ["Next.js", "Tailwind CSS", "Express.js", "MongoDB", "JWT"]
+  },
+  {
     "id": "tuition-management-system",
     "title": "Tuition Management System",
     "image": "https://i.ibb.co/J0DPxpy/tutor-bazar-image.webp",
